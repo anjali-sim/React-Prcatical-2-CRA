@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(238, 238, 238);
+}
+
+.image-style{
+    width: 30px;
+    height: 30px;
+}
+
+.checkBox{
+    appearance: none;
+    border: 2px solid rgb(209, 207, 207);
+    border-radius: 50%;
+    cursor: pointer;
+    height: 28px;
+    position: relative;
+    width: 28px;
+}
+input[type=checkbox]:checked {
+    background-image: url(../assets/images/checkbox.ico);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border: none;
+  } 
