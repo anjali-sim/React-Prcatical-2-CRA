@@ -1,0 +1,21 @@
+.date-style {
+    font-weight: 600;
+    font-size: 39px;
+}
+
+.day-style {
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.month-style {
+    font-weight: 600;
+    position: relative;
+    top: 9px;
+    font-size: 15px;
+}
+
+.year-style {
+    margin-top: 2px;
+    font-size: 15px;
+}
