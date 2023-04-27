@@ -1,0 +1,27 @@
+.button-position-relative{
+    position: relative;
+    display: flex;
+    justify-content: center;
+} 
+
+.button-position-absolute{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    top: 62px;
+}
+
+.add-button{
+    border-radius: 50%;
+    height: 80px;
+    width: 80px;
+    font-size: 40px;
+    background-color: #2ceead;
+    border: none;
+    color: rgb(28, 119, 28);
+}
+
+.add-button:hover{
+    background-color: #58c9a3;
+    color: rgb(20, 85, 20);
+}
