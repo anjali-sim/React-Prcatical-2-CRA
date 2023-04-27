@@ -1,7 +1,8 @@
-import React from "react";
+import React, { Fragment } from "react";
 import "../css/navbar.css";
 
 function Navbar() {
+  //variable for displaying the current date
   const d = new Date();
   const date = d.getDate();
   const monthNames = [
@@ -33,7 +34,7 @@ function Navbar() {
   const day = days[d.getDay()];
 
   return (
-    <>
+    <Fragment>
       <div className="container">
         <div className="container pt-4">
           <div className="row d-flex justify-content-between">
@@ -52,7 +53,7 @@ function Navbar() {
           </div>
         </div>
       </div>
-    </>
+    </Fragment>
   );
 }
 
