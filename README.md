@@ -1,6 +1,6 @@
 # React-Practical-2
 
-In this Practical, I have designed the User Interface(UI) for the Todo list. I have divided the webpage into four components - main or parent component, navigation bar, todo list items, add button, etc. I have created the project using CRA. I have created segregated the CSS files based on components. I have made the UI matching exactly with the UI that was provided. The UI is responsive which means creating web pages that look good on all devices. I have used the date object to implement the date functionality.
+In this Practical, I have designed the User Interface(UI) for the Todo list. I have divided the webpage into four components - main or parent component, navigation bar, todo list items, add button, etc. I have created the project using CRA. I have made the UI matching exactly with the UI that was provided. The UI is responsive which means creating web pages that look good on all devices. I have used the date object to implement the date functionality. I have used the styled component to include the CSS for the components. I have also included the global style as well.
 
 ## Languages and Tools:
 <p align="left"> 
