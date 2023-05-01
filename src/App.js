@@ -1,11 +1,13 @@
-import './App.css';
-import Todo from './components/Todo';
+import "./App.css";
+import Todo from "./components/Todo/Todo";
+import GlobalStyle from "./styled/GlobalStyle";
 
 function App() {
   return (
-    <div className="App">
+    <>
+      <GlobalStyle />
       <Todo />
-    </div>
+    </>
   );
 }
 
