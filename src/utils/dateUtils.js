@@ -1,5 +1,6 @@
 import { dayNames, monthNames } from "../constants/dummyText"
 
+// variables for getting the different date methods
 export const dateFormat = new Date();
 export const date = dateFormat.getDate();
 export const month = monthNames[dateFormat.getMonth()];

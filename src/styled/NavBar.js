@@ -1,5 +1,6 @@
 import styled from "styled-components";
 
+// style for the navigation bar
 export const Wrapper = styled.section`
   display: flex;
   justify-content: center;

@@ -1,5 +1,6 @@
 import styled from "styled-components";
 
+// style for the list items
 export const Wrapper = styled.div`
  .list-items-body {
    display: flex;

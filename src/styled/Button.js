@@ -1,5 +1,6 @@
 import styled from "styled-components";
 
+// style for the button and the hover effect
 export const AddButton = styled.button`
   border-radius: 50%;
   position: fixed;

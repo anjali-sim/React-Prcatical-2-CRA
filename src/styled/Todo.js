@@ -1,5 +1,6 @@
 import styled from "styled-components";
 
+// style for the main content of the list
 export const MainBody = styled.div`
   justify-content: center;
   align-items: center;

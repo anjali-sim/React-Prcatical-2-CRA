@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import Navbar from "../Navbar/Navbar";
 import TodoList from "../TodoList/TodoList";
-import AddTodo from "../Button/AddTodo";
+import AddTodo from "../ButtonPosition/AddTodo";
 import { MainBody } from "../../styled/Todo";
 
 class Todo extends Component {

@@ -1,6 +1,7 @@
 import styled from "styled-components";
-import checkbox from '../assets/images/checkbox.ico'
+import checkbox from '../assets/images/checkbox.ico';
 
+// style for the input checkbox
 export const InputCheckBox = styled.input`
     appearance: none;
     border: 2px solid rgb(209, 207, 207);
@@ -22,5 +23,4 @@ export const InputCheckBox = styled.input`
         height: 25px;
         width: 25px;
     }
-
 `;
