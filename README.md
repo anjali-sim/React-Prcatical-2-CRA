@@ -10,6 +10,7 @@
 - The UI is responsive which means creating web pages that look good on all devices. 
 - I have used the date object to implement the date functionality.
 - I have used the <strong>styled component</strong> to include the CSS for the components. I have included the global style as well.
+- I have followed the proper naming conventions, formatting and commenting.
 
 ## Languages and Tools:
 <p align="left"> 
